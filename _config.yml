@@ -19,7 +19,7 @@ description: >- # This is a website for a class I am taking in the spring of 202
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-github_username:camuelg710
+github_username: camuelg710
 minimal_mistakes_skin: neon
 search: true
 
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sam Godwin"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I exist as a human in the year 2025."
+  name: "Sam Godwin"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I exist as a human in the year 2025."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
