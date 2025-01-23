@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 title: "Home"
 ---
 # this is H1
